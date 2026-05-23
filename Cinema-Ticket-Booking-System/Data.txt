@@ -1,0 +1,32 @@
+ID,Film,Kategori,Hari,Jam,Kursi,Status
+
+1,Avengers,Action,Senin,10:00-14:00-19:00,20,Tersedia
+2,Batman,Action,Selasa,11:00-15:00-20:00,10,Tersedia
+3,Spiderman,Action,Rabu,09:00-13:00-18:00,5,Tersedia
+4,Frozen,Animation,Kamis,12:00-16:00-21:00,2,Tersedia
+5,Joker,Drama,Jumat,10:00-14:00-19:00,0,Habis
+6,Titanic,Drama,Sabtu,11:00-15:00-20:00,25,Tersedia
+7,Avatar,Sci-Fi,Minggu,09:00-13:00-18:00,25,Tersedia
+8,Inception,Sci-Fi,Senin,12:00-16:00-21:00,25,Tersedia
+9,Up,Animation,Selasa,10:00-14:00-19:00,25,Tersedia
+10,Coco,Animation,Rabu,11:00-15:00-20:00,25,Tersedia
+11,Interstellar,Sci-Fi,Kamis,09:00-13:00-18:00,25,Tersedia
+12,Dune,Sci-Fi,Jumat,12:00-16:00-21:00,25,Tersedia
+13,Cars,Animation,Sabtu,10:00-14:00-19:00,25,Tersedia
+14,Minions,Animation,Minggu,11:00-15:00-20:00,25,Tersedia
+15,Aladdin,Animation,Senin,09:00-13:00-18:00,25,Tersedia
+16,Matrix,Sci-Fi,Selasa,12:00-16:00-21:00,25,Tersedia
+17,Thor,Action,Rabu,10:00-14:00-19:00,25,Tersedia
+18,Iron Man,Action,Kamis,11:00-15:00-20:00,25,Tersedia
+19,Hulk,Action,Jumat,09:00-13:00-18:00,25,Tersedia
+20,Doctor Strange,Sci-Fi,Sabtu,12:00-16:00-21:00,25,Tersedia
+21,Transformers,Sci-Fi,Minggu,10:00-14:00-19:00,25,Tersedia
+22,Kungfu Panda,Animation,Senin,11:00-15:00-20:00,25,Tersedia
+23,Moana,Animation,Selasa,09:00-13:00-18:00,25,Tersedia
+24,Encanto,Animation,Rabu,12:00-16:00-21:00,25,Tersedia
+25,Naruto,Action,Kamis,10:00-14:00-19:00,25,Tersedia
+26,One Piece,Action,Jumat,11:00-15:00-20:00,25,Tersedia
+27,Jujutsu Kaisen,Action,Sabtu,09:00-13:00-18:00,25,Tersedia
+28,Demon Slayer,Action,Minggu,12:00-16:00-21:00,25,Tersedia
+29,John Wick,Action,Senin,10:00-14:00-19:00,25,Tersedia
+30,Fast Furious,Action,Selasa,11:00-15:00-20:00,25,Tersedia
