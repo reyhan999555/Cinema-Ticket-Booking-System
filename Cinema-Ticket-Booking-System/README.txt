@@ -3,8 +3,15 @@ CINEMA TICKET BOOKING SYSTEM
 Project UAS Struktur Data dan Algoritma
 Menggunakan bahasa pemrograman Java.
 
-=================================================
 
+=================================================
+CARA MENJALANKAN PROGRAM
+
+1. Buka project di VSCode
+2. Jalankan file:
+   ASDCinemaSystemUAS.java
+3. Program siap digunakan
+=================================================
 DESKRIPSI PROJECT
 
 Program ini merupakan sistem pemesanan tiket bioskop berbasis Java.
@@ -46,14 +53,6 @@ FITUR TAMBAHAN
 - Simulasi Struk Pembelian Tiket
 - Simulasi Data Film Otomatis
 
-=================================================
-
-CARA MENJALANKAN PROGRAM
-
-1. Buka project di VSCode
-2. Jalankan file:
-   ASDCinemaSystemUAS.java
-3. Program siap digunakan
 
 =================================================
 
