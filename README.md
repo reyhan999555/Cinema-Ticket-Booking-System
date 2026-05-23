@@ -5,7 +5,6 @@ Menggunakan bahasa pemrograman Java.
 
 =================================================
 CARA MENJALANKAN PROGRAM
-=================================================
 1. Buka project di VSCode
 2. Jalankan file:
    ASDCinemaSystemUAS.java
